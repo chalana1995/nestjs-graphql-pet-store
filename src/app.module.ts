@@ -16,9 +16,9 @@ import { OwnersModule } from './owners/owners.module';
       type: 'postgres',
       host: 'localhost',
       port: 5432,
-      username: 'postgres',
-      password: '123456',
-      database: 'petmanagment',
+      username: //'username',
+      password: //'server password',
+      database: //'database name',
       entities: ["dist/**/*.entity{.ts,.js}"],
       synchronize: true
     }),
