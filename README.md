@@ -1,2 +1,2 @@
 # nestjs-graphql-pet-store
-user nestjs graphql typeorm + database
+use nestjs graphql typeorm + database
